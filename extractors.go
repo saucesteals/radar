@@ -17,7 +17,7 @@ const (
 	hasDocumentTouch
 	enabledStorage
 	fontFingerprint
-	unused
+	_ // unused
 	userAgent
 	shockwaveFlashVersion
 	adblocker
