@@ -1,7 +1,5 @@
 # Stripe Radar
 
-## Payload Generator
-
 [![GoDoc](https://godoc.org/github.com/saucesteals/radar?status.svg)](https://godoc.org/github.com/saucesteals/radar)
 
 Stripe Radar Payload Generator
